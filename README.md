@@ -60,6 +60,7 @@ python automacao.py
         ├── automacao.py
         ├── produtos.csv
         ├── position.py
+        ├── LICENSE
         └── README.md
 
 ## 🎯 Objetivo do projeto
