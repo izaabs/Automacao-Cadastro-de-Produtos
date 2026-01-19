@@ -55,12 +55,12 @@ python automacao.py
 ```
 
 ## 📁 Estrutura do projeto
-📂 Automacao-Cadastro-de-Produtos
- ├── automacao.py
- ├── produtos.xlsx
- ├── requirements.txt
- ├── README.md
- └── /imagens (opcional)
+
+    📂 Automacao-Cadastro-de-Produtos
+        ├── automacao.py
+        ├── produtos.csv
+        ├── position.py
+        └── README.md
 
 ## 🎯 Objetivo do projeto
 
