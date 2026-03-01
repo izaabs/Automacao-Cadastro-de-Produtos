@@ -21,7 +21,6 @@ A ferramenta lê os dados de uma planilha, faz validações e utiliza **PyAutoGU
 - **PyAutoGUI**
 - **Pandas**
 - **OpenPyXL**
-- *(Inclua outras libs se necessário)*
 
 ---
 
